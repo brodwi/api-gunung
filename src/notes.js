@@ -1,5 +1,6 @@
 const gunung = [
     {
+        "id": "1",
         "nama": "Seulawah Agam",
         "bentuk": "Stratovulkan",
         "tinggi": "1810 Meter",
@@ -10,6 +11,7 @@ const gunung = [
         "gambar": "https://foto-gunung.vercel.app/src/image/seulawah-agam.jpg"
     },
     {
+        "id": "2",
         "nama": "Peuet Sagoe",
         "bentuk": "Kompleks",
         "tinggi": "2801 meter",
@@ -20,6 +22,7 @@ const gunung = [
         "gambar": "https://foto-gunung.vercel.app/src/image/Peuet-Sagoe.jpg"
     },
     {
+        "id": "3",
         "nama": "Geureudong",
         "bentuk": "Stratovulkan",
         "tinggi": "2885 meter",
@@ -30,6 +33,7 @@ const gunung = [
         "gambar": "https://foto-gunung.vercel.app/src/image/geureudong.jpg"
     },
     {
+        "id": "4",
         "nama": "Sibayak",
         "bentuk": "Stratovulkan",
         "tinggi": "2212 meter",
@@ -40,6 +44,7 @@ const gunung = [
         "gambar": "https://foto-gunung.vercel.app/src/image/Sibayak.jpg"
     },
     {
+        "id": "5",
         "nama": "Sinabung",
         "bentuk": "Stratovulkan",
         "tinggi": "2460 meter",
@@ -50,6 +55,7 @@ const gunung = [
         "gambar": "https://foto-gunung.vercel.app/src/image/Sinabung.jpg"
     },
     {
+        "id": "6",
         "nama": "Gunung Toba",
         "bentuk": "Supervulkan",
         "tinggi": "2157 meter",
