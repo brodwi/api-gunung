@@ -64,7 +64,63 @@ const gunung = [
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Gunung-Toba.jpg"
+    },
+    {
+        "id": "7",
+        "nama": "Sibualbuali",
+        "bentuk": "stratovulkan",
+        "tinggi": "1819 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "1.556°N 99.255°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Sibualbuali.jpg"
+    },
+    {
+        "id": "8",
+        "nama": "Lubukraya",
+        "bentuk": "stratovulkan",
+        "tinggi": "1862 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "1.478°N 99.209°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Lubukraya.jpg"
+    },
+    {
+        "id": "9",
+        "nama": "Sorikmarapi",
+        "bentuk": "stratovulkan",
+        "tinggi": "2145 meter",
+        "letusan_terakhir": "1986",
+        "geolokasi": "0.686°N 99.539°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Sorikmarapi.jpg"
+    },
+    {
+        "id": "10",
+        "nama": "Talakmau",
+        "bentuk": "Kompleks",
+        "tinggi": "2919 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "0.079°N 99.98°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Talakmau.jpg"
+    },
+    {
+        "id": "11",
+        "nama": "Marapi",
+        "bentuk": "Kompleks",
+        "tinggi": "2891 meter",
+        "letusan_terakhir": "6 Juli 2017",
+        "geolokasi": "0.381°S 100.473°E",
+        "status": "Aktif",
+        "keamanan": "Aman Tapi Tidak Sampai Puncak",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Marapi.jpg"
     }
+    
 ];
  
 module.exports = gunung;
