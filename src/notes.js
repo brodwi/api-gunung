@@ -119,6 +119,72 @@ const gunung = [
         "status": "Aktif",
         "keamanan": "Aman Tapi Tidak Sampai Puncak",
         "gambar": "https://foto-gunung.vercel.app/src/image/Marapi.jpg"
+    },
+    {
+        "id": "12",
+        "nama": "Singgalang",
+        "bentuk": "Stratovulkan",
+        "tinggi": "2877 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "0.420°S 100.317°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Singgalang.jpg"
+    },
+    {
+        "id": "13",
+        "nama": "Tandikat",
+        "bentuk": "stratovulkan",
+        "tinggi": "2438 meter",
+        "letusan_terakhir": "1924",
+        "geolokasi": "0.433°S 100.317°E",
+        "status": "Aktif",
+        "keamanan": "Jarang Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Tandikat.jpg"
+    },
+    {
+        "id": "14",
+        "nama": "Sago",
+        "bentuk": "Stratovulkan",
+        "tinggi": "2271 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "0.354°S 100.378°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Sago.jpg"
+    },
+    {
+        "id": "15",
+        "nama": "Talang",
+        "bentuk": "stratovulkan",
+        "tinggi": "2597 meter",
+        "letusan_terakhir": "12 April 2005",
+        "geolokasi": "0.978°S 100.679°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Talang.jpg"
+    },
+    {
+        "id": "16",
+        "nama": "Kerinci",
+        "bentuk": "stratovulkan",
+        "tinggi": "3800 meter",
+        "letusan_terakhir": "17 Oktober 2020",
+        "geolokasi": "1.697°S 101.264°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Kerinci.jpg"
+    },
+    {
+        "id": "17",
+        "nama": "Sumbing",
+        "bentuk": "stratovulkan",
+        "tinggi": "2507 meter",
+        "letusan_terakhir": "23 Mei 1921",
+        "geolokasi": "2.414°S 101.728°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Sumbing.jpg"
     }
     
 ];
