@@ -185,8 +185,51 @@ const gunung = [
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Sumbing.jpg"
+    },
+    {
+        "id": "18",
+        "nama": "Bukit Daun",
+        "bentuk": "stratovulkan",
+        "tinggi": "2467 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "3.38°S 102.37°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Bukit-Daun.jpg"
+    },
+    {
+        "id": "19",
+        "nama": "Kaba",
+        "bentuk": "stratovulkan",
+        "tinggi": "1952 meter",
+        "letusan_terakhir": "22 Agustus 2000",
+        "geolokasi": "3.52°S 102.62°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Kaba.jpg"
+    },
+    {
+        "id": "20",
+        "nama": "Dempo",
+        "bentuk": "stratovulkan",
+        "tinggi": "3173 meter",
+        "letusan_terakhir": "1 Januari 2009",
+        "geolokasi": "4.03°S 103.13°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Dempo.jpg"
+    },
+    {
+        "id": "21",
+        "nama": "Patah",
+        "bentuk": "stratovulkan",
+        "tinggi": "2852 meter",
+        "letusan_terakhir": "N/A",
+        "geolokasi": "4.27°S 103.30°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Patah.jpg"
     }
-    
 ];
  
 module.exports = gunung;
