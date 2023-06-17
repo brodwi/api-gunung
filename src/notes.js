@@ -1,12 +1,12 @@
 const gunung = [
-    {
-        "id": "1",
-        "nama": "Weh",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "617 meter",
-        "estimasi_letusan_terakhir": "Pleistosen",
-        "geolokasi": "5.82°N 95.28°E",
-    },
+    // {
+    //     "id": "1",
+    //     "nama": "Weh",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "617 meter",
+    //     "estimasi_letusan_terakhir": "Pleistosen",
+    //     "geolokasi": "5.82°N 95.28°E",
+    // },
     {
         "id": "2",
         "nama": "Seulawah Agam",
@@ -40,14 +40,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/geureudong.jpg"
     },
-    {
-        "id": "5",
-        "nama": "Kembar",
-        "bentuk": "perisai",
-        "tinggi_meter": "2245 meter",
-        "estimasi_letusan_terakhir": "Pleistosen",
-        "geolokasi": "3.850°N 97.664°E"
-    },
+    // {
+    //     "id": "5",
+    //     "nama": "Kembar",
+    //     "bentuk": "perisai",
+    //     "tinggi_meter": "2245 meter",
+    //     "estimasi_letusan_terakhir": "Pleistosen",
+    //     "geolokasi": "3.850°N 97.664°E"
+    // },
     {
         "id": "6",
         "nama": "Sibayak",
@@ -81,22 +81,22 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Gunung-Toba.jpg"
     },
-    {
-        "id": "9",
-        "nama": "Helatoba-Tarutung",
-        "bentuk": "Fumarol",
-        "tinggi_meter": "1100 meter",
-        "estimasi_letusan_terakhir": "Pleistosen",
-        "geolokasi": "2.03°N 98.93°E"
-    },
-    {
-        "id": "10",
-        "nama": "Imun",
-        "bentuk": "N/A",
-        "tinggi_meter": "1505 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "2.158°N 98.93°E"
-    },
+    // {
+    //     "id": "9",
+    //     "nama": "Helatoba-Tarutung",
+    //     "bentuk": "Fumarol",
+    //     "tinggi_meter": "1100 meter",
+    //     "estimasi_letusan_terakhir": "Pleistosen",
+    //     "geolokasi": "2.03°N 98.93°E"
+    // },
+    // {
+    //     "id": "10",
+    //     "nama": "Imun",
+    //     "bentuk": "N/A",
+    //     "tinggi_meter": "1505 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "2.158°N 98.93°E"
+    // },
     {
         "id": "11",
         "nama": "Sibualbuali",
@@ -141,14 +141,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Talakmau.jpg"
     },
-    {
-        "id": "15",
-        "nama": "Sarik-Gajah",
-        "bentuk": "kerucut",
-        "tinggi_meter": "N/A",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.008°N 100.20°E"
-    },
+    // {
+    //     "id": "15",
+    //     "nama": "Sarik-Gajah",
+    //     "bentuk": "kerucut",
+    //     "tinggi_meter": "N/A",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.008°N 100.20°E"
+    // },
     {
         "id": "16",
         "nama": "Marapi",
@@ -215,14 +215,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Kerinci.jpg"
     },
-    {
-        "id": "22",
-        "nama": "Hutapanjang",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "2021 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "2.33°S 101.60°E"
-    },
+    // {
+    //     "id": "22",
+    //     "nama": "Hutapanjang",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "2021 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "2.33°S 101.60°E"
+    // },
     {
         "id": "23",
         "nama": "Sumbing",
@@ -234,30 +234,30 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Sumbing.jpg"
     },
-    {
-        "id": "24",
-        "nama": "Kunyit",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "2151 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "2.592°S 101.63°E"
-    },
-    {
-        "id": "25",
-        "nama": "Pendan",
-        "bentuk": "N/A",
-        "tinggi_meter": "N/A",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "2.82°S 102.02°E"
-    },
-    {
-        "id": "26",
-        "nama": "Belirang-Beriti",
-        "bentuk": "gabungan",
-        "tinggi_meter": "1958 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "2.82°S 102.18°E"
-    },
+    // {
+    //     "id": "24",
+    //     "nama": "Kunyit",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "2151 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "2.592°S 101.63°E"
+    // },
+    // {
+    //     "id": "25",
+    //     "nama": "Pendan",
+    //     "bentuk": "N/A",
+    //     "tinggi_meter": "N/A",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "2.82°S 102.02°E"
+    // },
+    // {
+    //     "id": "26",
+    //     "nama": "Belirang-Beriti",
+    //     "bentuk": "gabungan",
+    //     "tinggi_meter": "1958 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "2.82°S 102.18°E"
+    // },
     {
         "id": "27",
         "nama": "Bukit Daun",
@@ -302,54 +302,54 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Patah.jpg"
     },
-    {
-        "id": "31",
-        "nama": "Bukit Lumut Balai",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "2055 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "4.23°S 103.62°E"
-    },
-    {
-        "id": "32",
-        "nama": "Besar",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1899 meter",
-        "estimasi_letusan_terakhir": "April 1940",
-        "geolokasi": "4.43°S 103.67°E"
-    },
-    {
-        "id": "33",
-        "nama": "Ranau",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1881 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "4.83°S 103.92°E"
-    },
-    {
-        "id": "34",
-        "nama": "Sekincau Belirang",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1719 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "5.12°S 104.32°E"
-    },
-    {
-        "id": "35",
-        "nama": "Suoh",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1000 meter",
-        "estimasi_letusan_terakhir": "10 Juli 1933",
-        "geolokasi": "5.25°S 104.27°E"
-    },
-    {
-        "id": "36",
-        "nama": "Hulubelu",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1040 meter",
-        "estimasi_letusan_terakhir": 1836,
-        "geolokasi": "5.35°S 104.60°E"
-    },
+    // {
+    //     "id": "31",
+    //     "nama": "Bukit Lumut Balai",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "2055 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "4.23°S 103.62°E"
+    // },
+    // {
+    //     "id": "32",
+    //     "nama": "Besar",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1899 meter",
+    //     "estimasi_letusan_terakhir": "April 1940",
+    //     "geolokasi": "4.43°S 103.67°E"
+    // },
+    // {
+    //     "id": "33",
+    //     "nama": "Ranau",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1881 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "4.83°S 103.92°E"
+    // },
+    // {
+    //     "id": "34",
+    //     "nama": "Sekincau Belirang",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1719 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "5.12°S 104.32°E"
+    // },
+    // {
+    //     "id": "35",
+    //     "nama": "Suoh",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1000 meter",
+    //     "estimasi_letusan_terakhir": "10 Juli 1933",
+    //     "geolokasi": "5.25°S 104.27°E"
+    // },
+    // {
+    //     "id": "36",
+    //     "nama": "Hulubelu",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1040 meter",
+    //     "estimasi_letusan_terakhir": 1836,
+    //     "geolokasi": "5.35°S 104.60°E"
+    // },
     {
         "id": "37",
         "nama": "Rajabasa",
@@ -394,22 +394,22 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Karang.jpg"
     },
-    {
-        "id": "41",
-        "nama": "Kiaraberes-Gagak",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1511 meter",
-        "estimasi_letusan_terakhir": "6 April 1939",
-        "geolokasi": "6.73°S 106.65°E"
-    },
-    {
-        "id": "42",
-        "nama": "Perbakti",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1699 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "6.75°S 106.68°E"
-    },
+    // {
+    //     "id": "41",
+    //     "nama": "Kiaraberes-Gagak",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1511 meter",
+    //     "estimasi_letusan_terakhir": "6 April 1939",
+    //     "geolokasi": "6.73°S 106.65°E"
+    // },
+    // {
+    //     "id": "42",
+    //     "nama": "Perbakti",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1699 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "6.75°S 106.68°E"
+    // },
     {
         "id": "43",
         "nama": "Salak",
@@ -443,14 +443,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Patuha.jpg"
     },
-    {
-        "id": "46",
-        "nama": "Wayang-Windu",
-        "bentuk": "kubah lava",
-        "tinggi_meter": "2182 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "7.208°S 107.63°E"
-    },
+    // {
+    //     "id": "46",
+    //     "nama": "Wayang-Windu",
+    //     "bentuk": "kubah lava",
+    //     "tinggi_meter": "2182 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "7.208°S 107.63°E"
+    // },
     {
         "id": "47",
         "nama": "Malabar",
@@ -484,14 +484,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Papandayan.jpg"
     },
-    {
-        "id": "50",
-        "nama": "Kendang",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "2608 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "7.23°S 107.72°E"
-    },
+    // {
+    //     "id": "50",
+    //     "nama": "Kendang",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "2608 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "7.23°S 107.72°E"
+    // },
     {
         "id": "51",
         "nama": "Kamojang",
@@ -734,14 +734,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Penangguran.jpg"
     },
-    {
-        "id": "73",
-        "nama": "Malang",
-        "bentuk": "maar",
-        "tinggi_meter": "680 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.02°S 112.68°E"
-    },
+    // {
+    //     "id": "73",
+    //     "nama": "Malang",
+    //     "bentuk": "maar",
+    //     "tinggi_meter": "680 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.02°S 112.68°E"
+    // },
     {
         "id": "74",
         "nama": "Semeru",
@@ -775,14 +775,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Lamongan.jpg"
     },
-    {
-        "id": "77",
-        "nama": "Lurus",
-        "bentuk": "kompleks",
-        "tinggi_meter": "539 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "7.73°S 113.58°E"
-    },
+    // {
+    //     "id": "77",
+    //     "nama": "Lurus",
+    //     "bentuk": "kompleks",
+    //     "tinggi_meter": "539 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "7.73°S 113.58°E"
+    // },
     {
         "id": "78",
         "nama": "Iyang-Argapura",
@@ -816,14 +816,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Ijen.jpg"
     },
-    {
-        "id": "81",
-        "nama": "Baluran",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1247 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "7.85°S 114.37°E"
-    },
+    // {
+    //     "id": "81",
+    //     "nama": "Baluran",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1247 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "7.85°S 114.37°E"
+    // },
     {
         "id": "82",
         "nama": "Merbuk",
@@ -890,30 +890,30 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Tambora.jpg"
     },
-    {
-        "id": "88",
-        "nama": "Sangeang Api",
-        "bentuk": "kompleks",
-        "tinggi_meter": "1949 meter",
-        "estimasi_letusan_terakhir": "30 Juli 1985",
-        "geolokasi": "8.20°S 119.07°E"
-    },
-    {
-        "id": "89",
-        "nama": "Wai Sano",
-        "bentuk": "kaldera",
-        "tinggi_meter": "903 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.72°S 120.02°E"
-    },
-    {
-        "id": "90",
-        "nama": "Poco Leok",
-        "bentuk": "N/A",
-        "tinggi_meter": "1675 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.68°S 120.48°E"
-    },
+    // {
+    //     "id": "88",
+    //     "nama": "Sangeang Api",
+    //     "bentuk": "kompleks",
+    //     "tinggi_meter": "1949 meter",
+    //     "estimasi_letusan_terakhir": "30 Juli 1985",
+    //     "geolokasi": "8.20°S 119.07°E"
+    // },
+    // {
+    //     "id": "89",
+    //     "nama": "Wai Sano",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "903 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.72°S 120.02°E"
+    // },
+    // {
+    //     "id": "90",
+    //     "nama": "Poco Leok",
+    //     "bentuk": "N/A",
+    //     "tinggi_meter": "1675 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.68°S 120.48°E"
+    // },
     {
         "id": "91",
         "nama": "Ranaka",
@@ -936,14 +936,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Inierie.jpg"
     },
-    {
-        "id": "93",
-        "nama": "Inielika",
-        "bentuk": "kompleks",
-        "tinggi_meter": "1559 meter",
-        "estimasi_letusan_terakhir": "11 Januari 2001",
-        "geolokasi": "8.73°S 120.98°E"
-    },
+    // {
+    //     "id": "93",
+    //     "nama": "Inielika",
+    //     "bentuk": "kompleks",
+    //     "tinggi_meter": "1559 meter",
+    //     "estimasi_letusan_terakhir": "11 Januari 2001",
+    //     "geolokasi": "8.73°S 120.98°E"
+    // },
     {
         "id": "94",
         "nama": "Ebulobo",
@@ -955,30 +955,30 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Ebulobo.jpg"
     },
-    {
-        "id": "95",
-        "nama": "Iya",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "637 meter",
-        "estimasi_letusan_terakhir": "27 Januari 1969",
-        "geolokasi": "8.897°S 121.645°E"
-    },
-    {
-        "id": "96",
-        "nama": "Sukaria",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1500 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.792°S 121.77°E"
-    },
-    {
-        "id": "97",
-        "nama": "Ndete Napu",
-        "bentuk": "fumarol",
-        "tinggi_meter": "750 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.72°S 121.78°E"
-    },
+    // {
+    //     "id": "95",
+    //     "nama": "Iya",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "637 meter",
+    //     "estimasi_letusan_terakhir": "27 Januari 1969",
+    //     "geolokasi": "8.897°S 121.645°E"
+    // },
+    // {
+    //     "id": "96",
+    //     "nama": "Sukaria",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1500 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.792°S 121.77°E"
+    // },
+    // {
+    //     "id": "97",
+    //     "nama": "Ndete Napu",
+    //     "bentuk": "fumarol",
+    //     "tinggi_meter": "750 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.72°S 121.78°E"
+    // },
     {
         "id": "98",
         "nama": "Kelimutu",
@@ -990,14 +990,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Kelimutu.jpg"
     },
-    {
-        "id": "99",
-        "nama": "Paluweh",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "875 meter",
-        "estimasi_letusan_terakhir": "3 Februari 1985",
-        "geolokasi": "8.32°S 121.708°E"
-    },
+    // {
+    //     "id": "99",
+    //     "nama": "Paluweh",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "875 meter",
+    //     "estimasi_letusan_terakhir": "3 Februari 1985",
+    //     "geolokasi": "8.32°S 121.708°E"
+    // },
     {
         "id": "100",
         "nama": "Egon",
@@ -1009,14 +1009,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Egon.jpg"
     },
-    {
-        "id": "101",
-        "nama": "Ilimuda",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1100 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.478°S 122.671°E"
-    },
+    // {
+    //     "id": "101",
+    //     "nama": "Ilimuda",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1100 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.478°S 122.671°E"
+    // },
     {
         "id": "102",
         "nama": "Lewotobi",
@@ -1039,14 +1039,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Leroboleng.jpg"
     },
-    {
-        "id": "104",
-        "nama": "Riang Kotang",
-        "bentuk": "fumarol",
-        "tinggi_meter": "200 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.30°S 122.892°E"
-    },
+    // {
+    //     "id": "104",
+    //     "nama": "Riang Kotang",
+    //     "bentuk": "fumarol",
+    //     "tinggi_meter": "200 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.30°S 122.892°E"
+    // },
     {
         "id": "105",
         "nama": "Iliboleng",
@@ -1069,22 +1069,22 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Lewotolo.jpg"
     },
-    {
-        "id": "107",
-        "nama": "Ililabalekan",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1018 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.55°S 123.38°E"
-    },
-    {
-        "id": "108",
-        "nama": "Iliwerung",
-        "bentuk": "kompleks",
-        "tinggi_meter": "1018 meter",
-        "estimasi_letusan_terakhir": "22 Mei 1999",
-        "geolokasi": "8.53°S 123.57°E"
-    },
+    // {
+    //     "id": "107",
+    //     "nama": "Ililabalekan",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1018 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "8.55°S 123.38°E"
+    // },
+    // {
+    //     "id": "108",
+    //     "nama": "Iliwerung",
+    //     "bentuk": "kompleks",
+    //     "tinggi_meter": "1018 meter",
+    //     "estimasi_letusan_terakhir": "22 Mei 1999",
+    //     "geolokasi": "8.53°S 123.57°E"
+    // },
     {
         "id": "109",
         "nama": "Batu Tara",
@@ -1140,54 +1140,54 @@ const gunung = [
         "keamanan": "Tidak Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Nieuwerkerk.jpeg"
     },
-    {
-        "id": "114",
-        "nama": "Gunungapi Wetar",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "282 meter",
-        "estimasi_letusan_terakhir": 1699,
-        "geolokasi": "6.642°S 126.65°E"
-    },
-    {
-        "id": "115",
-        "nama": "Wurlali",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "868 meter",
-        "estimasi_letusan_terakhir": "3 Juni 1892",
-        "geolokasi": "7.125°S 128.675°E"
-    },
-    {
-        "id": "116",
-        "nama": "Teon",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "655 meter",
-        "estimasi_letusan_terakhir": "3 Juni 1904",
-        "geolokasi": "6.92°S 129.125°E"
-    },
-    {
-        "id": "117",
-        "nama": "Nila",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "781 meter",
-        "estimasi_letusan_terakhir": "7 Mei 1968",
-        "geolokasi": "6.73°S 129.50°E"
-    },
-    {
-        "id": "118",
-        "nama": "Serua",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "641 meter",
-        "estimasi_letusan_terakhir": "18 September 1921",
-        "geolokasi": "6.30°S 130.00°E"
-    },
-    {
-        "id": "119",
-        "nama": "Manuk",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "282 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "5.53°S 130.292°E"
-    },
+    // {
+    //     "id": "114",
+    //     "nama": "Gunungapi Wetar",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "282 meter",
+    //     "estimasi_letusan_terakhir": 1699,
+    //     "geolokasi": "6.642°S 126.65°E"
+    // },
+    // {
+    //     "id": "115",
+    //     "nama": "Wurlali",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "868 meter",
+    //     "estimasi_letusan_terakhir": "3 Juni 1892",
+    //     "geolokasi": "7.125°S 128.675°E"
+    // },
+    // {
+    //     "id": "116",
+    //     "nama": "Teon",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "655 meter",
+    //     "estimasi_letusan_terakhir": "3 Juni 1904",
+    //     "geolokasi": "6.92°S 129.125°E"
+    // },
+    // {
+    //     "id": "117",
+    //     "nama": "Nila",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "781 meter",
+    //     "estimasi_letusan_terakhir": "7 Mei 1968",
+    //     "geolokasi": "6.73°S 129.50°E"
+    // },
+    // {
+    //     "id": "118",
+    //     "nama": "Serua",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "641 meter",
+    //     "estimasi_letusan_terakhir": "18 September 1921",
+    //     "geolokasi": "6.30°S 130.00°E"
+    // },
+    // {
+    //     "id": "119",
+    //     "nama": "Manuk",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "282 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "5.53°S 130.292°E"
+    // },
     {
         "id": "120",
         "nama": "Banda Api",
@@ -1232,30 +1232,30 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Soputan.jpeg"
     },
-    {
-        "id": "124",
-        "nama": "Sempu",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1549 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.13°N 124.758°E"
-    },
-    {
-        "id": "125",
-        "nama": "Tondano",
-        "bentuk": "kaldera",
-        "tinggi_meter": "1202 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.23°N 124.83°E"
-    },
-    {
-        "id": "126",
-        "nama": "Lokon-Empung",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1580 meter",
-        "estimasi_letusan_terakhir": "15 Juli 2011",
-        "geolokasi": "1.358°N 124.792°E"
-    },
+    // {
+    //     "id": "124",
+    //     "nama": "Sempu",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1549 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.13°N 124.758°E"
+    // },
+    // {
+    //     "id": "125",
+    //     "nama": "Tondano",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "1202 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.23°N 124.83°E"
+    // },
+    // {
+    //     "id": "126",
+    //     "nama": "Lokon-Empung",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1580 meter",
+    //     "estimasi_letusan_terakhir": "15 Juli 2011",
+    //     "geolokasi": "1.358°N 124.792°E"
+    // },
     {
         "id": "127",
         "nama": "Mahawu",
@@ -1265,7 +1265,7 @@ const gunung = [
         "geolokasi": "1.358°N 124.858°E",
         "status": "Tidak Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Mahawu.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Mahawu.jpg"
     },
     {
         "id": "128",
@@ -1276,32 +1276,32 @@ const gunung = [
         "geolokasi": "1.47°N 125.03°E",
         "status": "Tidak Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Klabat.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Klabat.jpg"
     },
-    {
-        "id": "129",
-        "nama": "Tongkoko",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1149 meter",
-        "estimasi_letusan_terakhir": 1880,
-        "geolokasi": "1.52°N 125.20°E"
-    },
-    {
-        "id": "130",
-        "nama": "Ruang",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "725 meter",
-        "estimasi_letusan_terakhir": "25 September 2002",
-        "geolokasi": "2.30°N 125.37°E"
-    },
-    {
-        "id": "131",
-        "nama": "Karangetang",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1784 meter",
-        "estimasi_letusan_terakhir": "Agustus 2007",
-        "geolokasi": "2.78°N 125.40°E"
-    },
+    // {
+    //     "id": "129",
+    //     "nama": "Tongkoko",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1149 meter",
+    //     "estimasi_letusan_terakhir": 1880,
+    //     "geolokasi": "1.52°N 125.20°E"
+    // },
+    // {
+    //     "id": "130",
+    //     "nama": "Ruang",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "725 meter",
+    //     "estimasi_letusan_terakhir": "25 September 2002",
+    //     "geolokasi": "2.30°N 125.37°E"
+    // },
+    // {
+    //     "id": "131",
+    //     "nama": "Karangetang",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1784 meter",
+    //     "estimasi_letusan_terakhir": "Agustus 2007",
+    //     "geolokasi": "2.78°N 125.40°E"
+    // },
     {
         "id": "132",
         "nama": "Banua Wuhu",
@@ -1313,14 +1313,14 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Banua-Wuhu.jpg"
     },
-    {
-        "id": "133",
-        "nama": "Awu",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1320 meter",
-        "estimasi_letusan_terakhir": "2 Juni 2004",
-        "geolokasi": "3.67°N 125.50°E"
-    },
+    // {
+    //     "id": "133",
+    //     "nama": "Awu",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1320 meter",
+    //     "estimasi_letusan_terakhir": "2 Juni 2004",
+    //     "geolokasi": "3.67°N 125.50°E"
+    // },
     {
         "id": "134",
         "nama": "Submarine 1922",
@@ -1332,14 +1332,14 @@ const gunung = [
         "keamanan": "Tidak Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Submarine-1922.jpg"
     },
-    {
-        "id": "135",
-        "nama": "Tarakan",
-        "bentuk": "kerucut piroklastik",
-        "tinggi_meter": "318 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.83°N 127.83°E"
-    },
+    // {
+    //     "id": "135",
+    //     "nama": "Tarakan",
+    //     "bentuk": "kerucut piroklastik",
+    //     "tinggi_meter": "318 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.83°N 127.83°E"
+    // },
     {
         "id": "136",
         "nama": "Dukono",
@@ -1351,54 +1351,54 @@ const gunung = [
         "keamanan": "Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Dukono.jpg"
     },
-    {
-        "id": "137",
-        "nama": "Tobaru",
-        "bentuk": "N/A",
-        "tinggi_meter": "1035 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.63°N 127.67°E"
-    },
-    {
-        "id": "138",
-        "nama": "Ibu",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1325 meter",
-        "estimasi_letusan_terakhir": "Mei 2005",
-        "geolokasi": "1.488°N 127.63°E"
-    },
-    {
-        "id": "139",
-        "nama": "Gamkonora",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1635 meter",
-        "estimasi_letusan_terakhir": "9 Juli 2007",
-        "geolokasi": "1.38°N 127.53°E"
-    },
-    {
-        "id": "140",
-        "nama": "Todoko-Ranu",
-        "bentuk": "kaldera",
-        "tinggi_meter": "979 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.25°N 127.47°E"
-    },
-    {
-        "id": "141",
-        "nama": "Jailolo",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1130 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.08°N 127.42°E"
-    },
-    {
-        "id": "142",
-        "nama": "Hiri",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "630 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.90°N 127.32°E"
-    },
+    // {
+    //     "id": "137",
+    //     "nama": "Tobaru",
+    //     "bentuk": "N/A",
+    //     "tinggi_meter": "1035 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.63°N 127.67°E"
+    // },
+    // {
+    //     "id": "138",
+    //     "nama": "Ibu",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1325 meter",
+    //     "estimasi_letusan_terakhir": "Mei 2005",
+    //     "geolokasi": "1.488°N 127.63°E"
+    // },
+    // {
+    //     "id": "139",
+    //     "nama": "Gamkonora",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1635 meter",
+    //     "estimasi_letusan_terakhir": "9 Juli 2007",
+    //     "geolokasi": "1.38°N 127.53°E"
+    // },
+    // {
+    //     "id": "140",
+    //     "nama": "Todoko-Ranu",
+    //     "bentuk": "kaldera",
+    //     "tinggi_meter": "979 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.25°N 127.47°E"
+    // },
+    // {
+    //     "id": "141",
+    //     "nama": "Jailolo",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1130 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "1.08°N 127.42°E"
+    // },
+    // {
+    //     "id": "142",
+    //     "nama": "Hiri",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "630 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.90°N 127.32°E"
+    // },
     {
         "id": "143",
         "nama": "Gamalama",
@@ -1410,61 +1410,61 @@ const gunung = [
         "keamanan": "Tidak Aman Untuk Pendakian",
         "gambar": "https://foto-gunung.vercel.app/src/image/Gamalama.jpg"
     },
-    {
-        "id": "144",
-        "nama": "Gunung Tidore",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1730 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.658°N 127.40°E"
-    },
-    {
-        "id": "145",
-        "nama": "Mare",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "308 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.57°N 127.40°E"
-    },
-    {
-        "id": "146",
-        "nama": "Moti",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "950 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.45°N 127.40°E"
-    },
-    {
-        "id": "147",
-        "nama": "Kie Besi",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1357 meter",
-        "estimasi_letusan_terakhir": "29 Juli 1988",
-        "geolokasi": "0.32°N 127.40°E"
-    },
-    {
-        "id": "148",
-        "nama": "Tigalalu",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "422 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.07°N 127.42°E"
-    },
-    {
-        "id": "149",
-        "nama": "Amasing",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "1030 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.53°S 127.48°E"
-    },
-    {
-        "id": "150",
-        "nama": "Bibinoi",
-        "bentuk": "stratovulkan",
-        "tinggi_meter": "900 meter",
-        "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "0.77°S 127.72°E"
-    }
+    // {
+    //     "id": "144",
+    //     "nama": "Gunung Tidore",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1730 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.658°N 127.40°E"
+    // },
+    // {
+    //     "id": "145",
+    //     "nama": "Mare",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "308 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.57°N 127.40°E"
+    // },
+    // {
+    //     "id": "146",
+    //     "nama": "Moti",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "950 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.45°N 127.40°E"
+    // },
+    // {
+    //     "id": "147",
+    //     "nama": "Kie Besi",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1357 meter",
+    //     "estimasi_letusan_terakhir": "29 Juli 1988",
+    //     "geolokasi": "0.32°N 127.40°E"
+    // },
+    // {
+    //     "id": "148",
+    //     "nama": "Tigalalu",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "422 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.07°N 127.42°E"
+    // },
+    // {
+    //     "id": "149",
+    //     "nama": "Amasing",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "1030 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.53°S 127.48°E"
+    // },
+    // {
+    //     "id": "150",
+    //     "nama": "Bibinoi",
+    //     "bentuk": "stratovulkan",
+    //     "tinggi_meter": "900 meter",
+    //     "estimasi_letusan_terakhir": "N/A",
+    //     "geolokasi": "0.77°S 127.72°E"
+    // }
 ];
 module.exports = gunung;
