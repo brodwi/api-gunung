@@ -841,7 +841,10 @@ const gunung = [
         "bentuk": "kaldera",
         "tinggi_meter": "2276 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "8.28°S 115.13°E"
+        "geolokasi": "8.28°S 115.13°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Bratan.jpg"
     },
     {
         "id": "84",
@@ -849,7 +852,10 @@ const gunung = [
         "bentuk": "kaldera",
         "tinggi_meter": "1717 meter",
         "estimasi_letusan_terakhir": "15 Maret 1999",
-        "geolokasi": "8.242°S 115.375°E"
+        "geolokasi": "8.242°S 115.375°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Batur.jpg"
     },
     {
         "id": "85",
@@ -857,7 +863,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "3142 meter",
         "estimasi_letusan_terakhir": "2 Juli 2018",
-        "geolokasi": "8.342°S 115.508°E"
+        "geolokasi": "8.342°S 115.508°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Agung.jpg"
     },
     {
         "id": "86",
@@ -865,7 +874,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "3726 meter",
         "estimasi_letusan_terakhir": "27 September 2016",
-        "geolokasi": "8.42°S 116.47°E"
+        "geolokasi": "8.42°S 116.47°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Rinjani.jpg"
     },
     {
         "id": "87",
@@ -873,7 +885,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "2722 meter",
         "estimasi_letusan_terakhir": 1967,
-        "geolokasi": "8.25°S 118.00°E"
+        "geolokasi": "8.25°S 118.00°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Tambora.jpg"
     },
     {
         "id": "88",
@@ -905,7 +920,10 @@ const gunung = [
         "bentuk": "kubah lava",
         "tinggi_meter": "2100 meter",
         "estimasi_letusan_terakhir": "Maret 1991",
-        "geolokasi": "8.62°S 120.52°E"
+        "geolokasi": "8.62°S 120.52°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Ranaka.jpg"
     },
     {
         "id": "92",
@@ -913,7 +931,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "2245 meter",
         "estimasi_letusan_terakhir": "8050 SM",
-        "geolokasi": "8.875°S 120.95°E"
+        "geolokasi": "8.875°S 120.95°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Inierie.jpg"
     },
     {
         "id": "93",
@@ -929,7 +950,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "2124 meter",
         "estimasi_letusan_terakhir": "27 Februari 1969",
-        "geolokasi": "8.82°S 121.18°E"
+        "geolokasi": "8.82°S 121.18°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Ebulobo.jpg"
     },
     {
         "id": "95",
@@ -961,7 +985,10 @@ const gunung = [
         "bentuk": "kompleks",
         "tinggi_meter": "1639 meter",
         "estimasi_letusan_terakhir": "3 Juni 1968",
-        "geolokasi": "8.77°S 121.82°E"
+        "geolokasi": "8.77°S 121.82°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Kelimutu.jpg"
     },
     {
         "id": "99",
@@ -977,7 +1004,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1703 meter",
         "estimasi_letusan_terakhir": "6 Februari 2005",
-        "geolokasi": "8.67°S 122.45°E"
+        "geolokasi": "8.67°S 122.45°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Egon.jpg"
     },
     {
         "id": "101",
@@ -993,7 +1023,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1703 meter",
         "estimasi_letusan_terakhir": "30 Mei 2003",
-        "geolokasi": "8.542°S 122.775°E"
+        "geolokasi": "8.542°S 122.775°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Lewotobi.jpg"
     },
     {
         "id": "103",
@@ -1001,7 +1034,10 @@ const gunung = [
         "bentuk": "kompleks",
         "tinggi_meter": "1117 meter",
         "estimasi_letusan_terakhir": "26 Juni 2003",
-        "geolokasi": "8.358°S 122.842°E"
+        "geolokasi": "8.358°S 122.842°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Leroboleng.jpg"
     },
     {
         "id": "104",
@@ -1017,7 +1053,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1659 meter",
         "estimasi_letusan_terakhir": "Juni 1993",
-        "geolokasi": "8.342°S 123.258°E"
+        "geolokasi": "8.342°S 123.258°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Iliboleng.jpg"
     },
     {
         "id": "106",
@@ -1025,7 +1064,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1423 meter",
         "estimasi_letusan_terakhir": "15 Desember 1951",
-        "geolokasi": "8.272°S 123.505°E"
+        "geolokasi": "8.272°S 123.505°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Lewotolo.jpg"
     },
     {
         "id": "107",
@@ -1049,7 +1091,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "748 meter",
         "estimasi_letusan_terakhir": 1847,
-        "geolokasi": "7.792°S 123.579°E"
+        "geolokasi": "7.792°S 123.579°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Batu-Tara.jpg"
     },
     {
         "id": "110",
@@ -1057,7 +1102,10 @@ const gunung = [
         "bentuk": "kompleks",
         "tinggi_meter": "862 meter",
         "estimasi_letusan_terakhir": 1970,
-        "geolokasi": "8.508°S 124.13°E"
+        "geolokasi": "8.508°S 124.13°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Sirung.jpg"
     },
     {
         "id": "111",
@@ -1065,7 +1113,10 @@ const gunung = [
         "bentuk": "bawah laut",
         "tinggi_meter": "−3800 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "7.53°S 123.95°E"
+        "geolokasi": "7.53°S 123.95°E",
+        "status": "Aktif",
+        "keamanan": "Tidak Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Yersey.jpg"
     },
     {
         "id": "112",
@@ -1073,7 +1124,10 @@ const gunung = [
         "bentuk": "bawah laut",
         "tinggi_meter": "−2850 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "6.62°S 124.22°E"
+        "geolokasi": "6.62°S 124.22°E",
+        "status": "Aktif",
+        "keamanan": "Tidak Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/kaisar-tiongkok.jpeg"
     },
     {
         "id": "113",
@@ -1081,7 +1135,10 @@ const gunung = [
         "bentuk": "bawah laut",
         "tinggi_meter": "−2285 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "6.60°S 124.675°E"
+        "geolokasi": "6.60°S 124.675°E",
+        "status": "Aktif",
+        "keamanan": "Tidak Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Nieuwerkerk.jpeg"
     },
     {
         "id": "114",
@@ -1137,7 +1194,10 @@ const gunung = [
         "bentuk": "kaldera",
         "tinggi_meter": "640 meter",
         "estimasi_letusan_terakhir": "9 Mei 1988",
-        "geolokasi": "4.525°S 129.871°E"
+        "geolokasi": "4.525°S 129.871°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Banda-Api.jpeg"
     },
     {
         "id": "121",
@@ -1145,7 +1205,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "507 meter",
         "estimasi_letusan_terakhir": "18 Juli 1983",
-        "geolokasi": "0.17°S 121.608°E"
+        "geolokasi": "0.17°S 121.608°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Colo.jpeg"
     },
     {
         "id": "122",
@@ -1153,7 +1216,10 @@ const gunung = [
         "bentuk": "kompleks",
         "tinggi_meter": "1795 meter",
         "estimasi_letusan_terakhir": 1845,
-        "geolokasi": "0.75°N 124.42°E"
+        "geolokasi": "0.75°N 124.42°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Ambang.jpeg"
     },
     {
         "id": "123",
@@ -1161,7 +1227,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1784 meter",
         "estimasi_letusan_terakhir": "30 Oktober 2007",
-        "geolokasi": "1.108°N 124.73°E"
+        "geolokasi": "1.108°N 124.73°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Soputan.jpeg"
     },
     {
         "id": "124",
@@ -1193,7 +1262,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1324 meter",
         "estimasi_letusan_terakhir": "16 November 1977",
-        "geolokasi": "1.358°N 124.858°E"
+        "geolokasi": "1.358°N 124.858°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Mahawu.jpeg"
     },
     {
         "id": "128",
@@ -1201,7 +1273,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1995 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "1.47°N 125.03°E"
+        "geolokasi": "1.47°N 125.03°E",
+        "status": "Tidak Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Klabat.jpeg"
     },
     {
         "id": "129",
@@ -1233,7 +1308,10 @@ const gunung = [
         "bentuk": "bawah laut",
         "tinggi_meter": "−5 meter",
         "estimasi_letusan_terakhir": "18 Juli 1919",
-        "geolokasi": "3.138°N 125.491°E"
+        "geolokasi": "3.138°N 125.491°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Banua-Wuhu.jpg"
     },
     {
         "id": "133",
@@ -1249,7 +1327,10 @@ const gunung = [
         "bentuk": "bawah laut",
         "tinggi_meter": "−5000 meter",
         "estimasi_letusan_terakhir": "N/A",
-        "geolokasi": "3.97°N 125.17°E"
+        "geolokasi": "3.97°N 125.17°E",
+        "status": "Aktif",
+        "keamanan": "Tidak Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Submarine-1922.jpg"
     },
     {
         "id": "135",
@@ -1265,7 +1346,10 @@ const gunung = [
         "bentuk": "kompleks",
         "tinggi_meter": "1335 meter",
         "estimasi_letusan_terakhir": "13 Agustus 1933",
-        "geolokasi": "1.68°N 127.88°E"
+        "geolokasi": "1.68°N 127.88°E",
+        "status": "Aktif",
+        "keamanan": "Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Dukono.jpg"
     },
     {
         "id": "137",
@@ -1321,7 +1405,10 @@ const gunung = [
         "bentuk": "stratovulkan",
         "tinggi_meter": "1715 meter",
         "estimasi_letusan_terakhir": "31 Juli 2003",
-        "geolokasi": "0.80°N 127.33°E"
+        "geolokasi": "0.80°N 127.33°E",
+        "status": "Aktif",
+        "keamanan": "Tidak Aman Untuk Pendakian",
+        "gambar": "https://foto-gunung.vercel.app/src/image/Gamalama.jpg"
     },
     {
         "id": "144",
