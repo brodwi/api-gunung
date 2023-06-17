@@ -732,7 +732,7 @@ const gunung = [
         "geolokasi": "7.62°S 112.63°E",
         "status": "Tidak Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Penangguran.jpg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Penanggungan.jpg"
     },
     // {
     //     "id": "73",
@@ -1138,7 +1138,7 @@ const gunung = [
         "geolokasi": "6.60°S 124.675°E",
         "status": "Aktif",
         "keamanan": "Tidak Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Nieuwerkerk.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Nieuwerkerk.jpg"
     },
     // {
     //     "id": "114",
@@ -1197,7 +1197,7 @@ const gunung = [
         "geolokasi": "4.525°S 129.871°E",
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Banda-Api.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Banda-Api.jpg"
     },
     {
         "id": "121",
@@ -1208,7 +1208,7 @@ const gunung = [
         "geolokasi": "0.17°S 121.608°E",
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Colo.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Colo.jpg"
     },
     {
         "id": "122",
@@ -1219,7 +1219,7 @@ const gunung = [
         "geolokasi": "0.75°N 124.42°E",
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Ambang.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Ambang.jpg"
     },
     {
         "id": "123",
@@ -1230,7 +1230,7 @@ const gunung = [
         "geolokasi": "1.108°N 124.73°E",
         "status": "Aktif",
         "keamanan": "Aman Untuk Pendakian",
-        "gambar": "https://foto-gunung.vercel.app/src/image/Soputan.jpeg"
+        "gambar": "https://foto-gunung.vercel.app/src/image/Soputan.jpg"
     },
     // {
     //     "id": "124",
